@@ -11,18 +11,18 @@ usando Oauth2 e Token JWT. O sistema realiza o upload de imagens para os produto
 
 ## Layout mobile
 ![Mobile 1](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20CADASTRO%20DO%20PRODUTO%20(1).png) ![Mobile 2](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20CADASTRO%20DO%20PRODUTO.png)
-![Mobile 3](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 4](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
-![Mobile 5](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 6](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
-![Mobile 7](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 8](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
-![Mobile 9](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 10](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
-![Mobile 11](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 12](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
-![Mobile 13](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 14](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
-![Mobile 15](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 16](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
-![Mobile 17](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 18](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
-![Mobile 19](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 20](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
-![Mobile 21](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 22](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
-![Mobile 23](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 24](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
-![Mobile 25](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 26](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
+![Mobile 3](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20CAT%C3%81LOGO.png) ![Mobile 4](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20CRUD%20DO%20PRODUTO.png)
+![Mobile 5](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20DETALHE%20DO%20PRODUTO%202.png) ![Mobile 6](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20HOME.png)
+![Mobile 7](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20LOGIN.png) ![Mobile 8](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CADASTRO%20DO%20PRODUTO%20(1).png)
+![Mobile 9](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CADASTRO%20DO%20PRODUTO%20(3).png) ![Mobile 10](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CADASTRO%20DO%20PRODUTO%20(4).png)
+![Mobile 11](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CADASTRO%20DO%20PRODUTO%20(5).png) ![Mobile 12](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CADASTRO%20DO%20PRODUTO.png)
+![Mobile 13](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CAT%C3%81LOGO%20(1).png) ![Mobile 14](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CAT%C3%81LOGO.png)
+![Mobile 15](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CRUD%20CATEGORIAS.png) ![Mobile 16](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CRUD%20PRODUTO%20(1).png)
+![Mobile 17](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CRUD%20PRODUTO.png) ![Mobile 18](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CRUD%20PRODUTOS.png)
+![Mobile 19](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CRUD%20USU%C3%81RIOS.png) ![Mobile 20](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20DETALHE%20DO%20PRODUTO%20(1).png)
+![Mobile 21](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20DETALHE%20DO%20PRODUTO.png) ![Mobile 22](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20HOME%20(2).png)
+![Mobile 23](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20HOME%20(3).png) ![Mobile 24](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20HOME%20MENU.png)
+![Mobile 25](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20LOGIN%20(1).png) ![Mobile 26](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20LOGIN.png)
 
 
 
