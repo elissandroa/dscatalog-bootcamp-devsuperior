@@ -27,12 +27,44 @@ usando Oauth2 e Token JWT. O sistema realiza o upload de imagens para os produto
 
 
 ## Layout web
-![Web 1](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/web1.png)
+![Web 1](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/login-1-web-dscatalog.png)
 
-![Web 2](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/web2.png)
+![Web 2](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/login-2-web-dscatalog.png)
+
+![Web 3](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/login-3-web-dscatalog.png)
+
+![Web 4](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/login-4-cadastro-web-dscatalog.png)
+
+![Web 5](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/login-5-web-cadastro-dscatalog.png)
+
+![Web 6](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/cadastro-do-produto-dscatalog.png)
+
+![Web 7](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/cadastro-do-produto2-dscatalog.png)
+
+![Web 8](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/cadastro-do-usuario-dscatalog.png)
+
+![Web 9](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/crud-categorias-2-dscatalog.png)
+
+![Web 10](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/crud-categorias-dscatalog.png)
+
+![Web 11](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/crud-do-produto-dscatalog.png)
+
+![Web 12](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/crud-produtos-dscatalog.png)
+
+![Web 13](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/crud-usuario-3-dscatalog.png)
+
+![Web 14](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/crud-usuarios-1-dscatalog.png)
+
+![Web 15](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/detalhe-produto-web-dscatalog.png)
+
+![Web 16](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/home-dscatalog-web.png)
+
+![Web 17](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/detalhe-produto-web-dscatalog.png)
+
+![Web 18](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/home-dscatalog-web.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/modelo-conceitual-dscatalog.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -40,6 +72,9 @@ usando Oauth2 e Token JWT. O sistema realiza o upload de imagens para os produto
 - Spring Boot
 - JPA / Hibernate
 - Maven
+- Oalth2
+- Amazon S3
+- JWT Token
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
@@ -58,7 +93,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/elissandroa/sdspesquisa.git
+git clone https://github.com/elissandroa/dscatalog-bootcamp-devsuperior.git
 
 # entrar na pasta do projeto back end
 cd backend
@@ -72,7 +107,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/elissandroa/sdspesquisa.git
+git clone https://github.com/elissandroa/dscatalog-bootcamp-devsuperior.git
 
 # entrar na pasta do projeto front end web
 cd front-web
