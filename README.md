@@ -10,7 +10,10 @@ A aplicação consiste em catálogo de produtos, que podem ser cadastrados pelos
 usando Oauth2 e Token JWT. O sistema realiza o upload de imagens para os produtos com armazenamento na Amazon.
 
 ## Layout mobile
-![Mobile 1](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20CADASTRO%20DO%20PRODUTO%20(1).png) ![Mobile 2](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20CADASTRO%20DO%20PRODUTO.png)
+## Ipad 12.9"
+![Mobile 1](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20CADASTRO%20DO%20PRODUTO%20(1).png) 
+## Ipad 12.9"
+![Mobile 2](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20CADASTRO%20DO%20PRODUTO.png)
 ![Mobile 3](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20CAT%C3%81LOGO.png) ![Mobile 4](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20CRUD%20DO%20PRODUTO.png)
 ![Mobile 5](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20DETALHE%20DO%20PRODUTO%202.png) ![Mobile 6](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20HOME.png)
 ![Mobile 7](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20LOGIN.png) ![Mobile 8](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPhone%208%20Plus%20-%20CADASTRO%20DO%20PRODUTO%20(1).png)
