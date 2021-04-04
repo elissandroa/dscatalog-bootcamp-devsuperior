@@ -1,8 +1,7 @@
-# Big Game Survey 
+# DS Catalog
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/elissandroa/dscatalog-bootcamp-devsuperior/blob/main/LICENSE) 
 
 # Sobre o projeto
-
 
 
 DsCatalog é uma aplicação full stack web e mobile construída durante o BootCamp DevSuperior evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
@@ -11,7 +10,7 @@ A aplicação consiste em catálogo de produtos, que podem ser cadastrados pelos
 usando Oauth2 e Token JWT. O sistema realiza o upload de imagens para os produtos com armazenamento na Amazon.
 
 ## Layout mobile
-![Mobile 1](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 2](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
+![Mobile 1](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20CADASTRO%20DO%20PRODUTO%20(1).png) ![Mobile 2](https://github.com/elissandroa/assets/blob/main/assets/dscatalog/iPad%20Pro%2012.9_%20-%20CADASTRO%20DO%20PRODUTO.png)
 ![Mobile 3](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 4](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
 ![Mobile 5](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 6](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
 ![Mobile 7](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile1.png) ![Mobile 8](https://github.com/elissandroa/assets/blob/main/assets/sdspesquisa/mobile2.png)
